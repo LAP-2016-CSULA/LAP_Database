@@ -61,6 +61,7 @@
     <Folder Include="djangoDatabase\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="readme.txt" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="phenology\static\app\content\bootstrap.css" />
