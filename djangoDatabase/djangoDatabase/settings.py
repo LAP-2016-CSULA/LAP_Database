@@ -1,5 +1,6 @@
 """
 Django settings for djangoDatabase project.
+password=123
 """
 
 from os import path
